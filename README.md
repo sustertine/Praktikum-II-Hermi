@@ -6,6 +6,7 @@
   - Tine Šuster
   
 ## Kazalo
+   0. [Nabor predpogojev za delo z rešitvijo]()
    1. [Format Excel dokumenta](https://github.com/sustertine/Praktikum-II-Hermi/blob/master/README.md#format-excel-dokumenta)
    2. [Slike](https://github.com/sustertine/Praktikum-II-Hermi/blob/master/README.md#slike)
    3. [Kreacija predlog z značkami](https://github.com/sustertine/Praktikum-II-Hermi/blob/master/README.md#kreacija-predlog-z-zna%C4%8Dkami)
@@ -18,6 +19,10 @@
 
 ## Generator tehničnih specifikacij v obliki pdf in docx  
 Aplikacija kot vhod vzame predloge v obliki .docx, slike, in .xslt(excel) dokument in na podlagi predloge vrne .docx in/ali .pdf dokument z vnešenimi podatki izbranega produkta/prodkutov iz .xslt(excel) dokumenta.
+
+## Predpogoji za delo z rešitvijo
+   - Nameščena Java, priporočamo verzijo 11.0.4, ki je vključena v paket z rešitvijo. To verzijo je potrebno nastaviti kot privzeto verzijo.
+   - Nameščen VBS script, po [navodilih]()
 
 ## Format Excel dokumenta   
 Excel dokument naj **_nima praznih stolpcev_**. Imena stolpcev so sicer lahko napisana z malimi ali velikimi tiskanimi črkami, vendar je preferečno, da so napisana z velikimi. Imena stolpcev, ki naj bodo obravanavani kot "večjezični" (tj. bodo vsebinsko enaki drugemu stolpcu le v drugem jeziku) naj bodo poimenovani tako:
