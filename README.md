@@ -20,6 +20,8 @@
 ## Generator tehničnih specifikacij v obliki pdf in docx  
 Aplikacija kot vhod vzame predloge v obliki .docx, slike, in .xslt(excel) dokument in na podlagi predloge vrne .docx in/ali .pdf dokument z vnešenimi podatki izbranega produkta/prodkutov iz .xslt(excel) dokumenta.
 
+*V repozitoriju je tudi nabor testnih podatkov za razvijalce.*
+
 ## Predpogoji za delo z rešitvijo
    - Nameščena Java, priporočamo verzijo 11.0.4, ki je vključena v paket z rešitvijo. To verzijo je potrebno nastaviti kot privzeto verzijo.
    - Nameščen VBS script, po [navodilih](https://github.com/sustertine/Praktikum-II-Hermi#pretvorba-v-pdf).
