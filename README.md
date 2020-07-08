@@ -23,7 +23,7 @@ Aplikacija kot vhod vzame predloge v obliki .docx, slike, in .xslt(excel) dokume
 *V repozitoriju je tudi nabor testnih podatkov za razvijalce.*
 
 ## Predpogoji za delo z rešitvijo
-   - Nameščena Java, priporočamo verzijo 11.0.4, ki je vključena v paket z rešitvijo. To verzijo je potrebno nastaviti kot privzeto verzijo.
+   - Nameščena Java, priporočamo verzijo 11.0.4, ki je vključena v paket z rešitvijo. Verzija se nastavi kot privzeto za delovanje ob zagonu PdfGenerator.bat, kar naj bo tudi način na katerega se zaganja aplikacija.
    - Nameščen VBS script, po [navodilih](https://github.com/sustertine/Praktikum-II-Hermi#pretvorba-v-pdf).
 
 ## Format Excel dokumenta   
