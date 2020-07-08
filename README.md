@@ -1,4 +1,4 @@
-# Projekt za Hermi, d.o.o.
+# Pdf Generator
 **Verzija:** 1.0a  
 **Avtorji:**
   - Filip Lesjak
