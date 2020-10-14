@@ -23,8 +23,9 @@ Aplikacija kot vhod vzame predloge v obliki .docx, slike, in .xslt(excel) dokume
 *V repozitoriju je tudi nabor testnih podatkov za razvijalce.*
 
 ## Predpogoji za delo z rešitvijo
-   - Nameščena Java, priporočamo verzijo 11.0.4, ki je vključena v paket z rešitvijo. Verzija se nastavi kot privzeto za delovanje ob zagonu PdfGenerator.bat, kar naj bo tudi način na katerega se zaganja aplikacija.
+   - Nameščena Java, priporočamo verzijo 11.0.4, ki je vključena v paket z rešitvijo. Verzija se nastavi kot privzeto za delovanje ob zagonu PdfGenerator.bat, kar naj bo tudi način na katerega se zaganja aplikacija. Kljub temu mora biti nameščena katerakoli verzija Jave. 
    - Nameščen VBS script, po [navodilih](https://github.com/sustertine/Praktikum-II-Hermi#pretvorba-v-pdf).
+   - Rešitev treuntno namenjena le za operacijske sisteme Windows.
 
 ## Format Excel dokumenta   
 Excel dokument naj **_nima praznih stolpcev_**. Imena stolpcev so sicer lahko napisana z malimi ali velikimi tiskanimi črkami, vendar je preferečno, da so napisana z velikimi. Imena stolpcev, ki naj bodo obravanavani kot "večjezični" (tj. bodo vsebinsko enaki drugemu stolpcu le v drugem jeziku) naj bodo poimenovani tako:
